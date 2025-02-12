@@ -3,7 +3,11 @@ The Book Management System is a simple C++ console application that allows users
 
 ✨ Features
 📖 Add New Books – Store book details including book number, name, author, and copies available.
+
 🔍 Check Book Availability – Search for a book by its number and display its details.
+
 📝 Modify Book Records – Update existing book information.
+
 🗑️ Delete Book Records – Remove a book from the system.
+
 📜 Display All Books – View a list of all stored books.
